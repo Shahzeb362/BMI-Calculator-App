@@ -8,13 +8,12 @@ It provides a quick way to check if your weight is in a healthy range.
 ## 📱 Screenshots
 
 ### Home Screen
-![Home Screen](Document/screenshot1.png)
+<img src="Document/screenshot1.png" alt="Main Screen" width="300">
 
 ### Result Screen
-![Result Screen](Document/screenshot2.png)
-![Result Screen](Document/screenshot3.png)
-![Result Screen](Document/screenshot4.png)
-
+<img src="Document/screenshot2.png" alt="Result Screen" width="300">
+<img src="Document/screenshot3.png" alt="Result Screen" width="300">
+<img src="Document/screenshot4.png" alt="Result Screen" width="300">
 
 ## 🚀 Features
 - Enter height and weight easily
